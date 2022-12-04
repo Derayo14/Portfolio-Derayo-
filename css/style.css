@@ -1,0 +1,99 @@
+html {
+  scroll-behavior: smooth;
+}
+html, body{
+	height: 0.5%;
+}
+p {
+	line-height: 140%;
+}
+h1{
+	font-size: 33pt;
+ }
+ h3{
+ 	padding-right: 3000px;
+ }
+ol, ul{
+	padding: 0;
+	list-style: none;
+
+}
+	
+div.divisionone{
+	background-color: whitesmoke;
+	Padding:11%;
+}
+div.divisiontwo{
+	background-color: #08dd08;
+	padding: 7.5%;
+}
+img{
+	position:fixed; 
+	right:20px; 
+	bottom:1px; 
+}
+nav{
+	float: right;	
+    margin-top: -130px;
+}
+#menu ul{
+	text-align: center;
+	float: right;
+	margin left: 2px;
+	background: whitesmoke;
+	color: #08dd08;
+}
+#menu li{
+	display: inline-block;
+	margin: 0px;
+}
+#menu li a, #menu li span{
+	display: inline-block;
+	text-decoration: none;
+	font-weight: 60px;
+	text-transform: uppercase;
+	line-height: 60px;
+	
+}
+	
+#menu li a{
+	padding: 20px;
+	color: #08dd08;
+}
+#menu li:hover a, #menu li span{
+	color: black;
+	text-decoration: none;
+}
+div.images{
+	position: absolute;
+
+}
+.img1{
+       width: 300px;
+       height:250px ;
+       float: left;
+       margin-right: 1050px;
+       margin-bottom: 1px;
+}
+.img2{
+       width: 600px;
+       height:380px ;
+       float: left;
+       margin-right: 600px;
+}
+.img3{
+       width: 300px;
+       height:250px ;
+       float: left;
+       margin-right: 430px;
+}
+.logo1{
+
+	position: relative;
+	margin-left: 300px;
+	;
+}
+.img4{
+	position: relative;
+	margin-bottom: 500px;
+}
